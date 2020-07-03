@@ -1,8 +1,3 @@
-# Boilerplate
-I used the boilerplate for VanillaJS, Webpack and Babel.
-
-https://github.com/thatisuday/js-plugin-starter.git
-
 # Instructions
 - Use `npm install` command to install dependencies.
 
